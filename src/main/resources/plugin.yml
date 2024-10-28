@@ -1,4 +1,4 @@
-name: PaperPluginTemplateJava
+name: CRDisplay
 version: '1.0-SNAPSHOT'
-main: joshdev.paperPluginTemplateJava.PaperPluginTemplateJava
+main: dev.kiddo.CRDisplay.CRDisplay
 api-version: '1.21'
